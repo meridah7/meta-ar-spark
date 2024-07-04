@@ -289,7 +289,7 @@
                     {
                       "modelName": "3_d_object_instance_model",
                       "name": "Gk-6h-FDTdaRjOzZVfPdTQ_5fb26c3d012946a89debe34f8a3426f1_hat_compass",
-                      "identifier": "master3_d_object_model:997-4060e927-027f-4f77-b336-468de4764293",
+                      "identifier": "master3_d_object_model2772-4060e927-027f-4f77-b336-468de4764293",
                       "sourceIdentifier": "master3_d_object_model:458-4060e927-027f-4f77-b336-468de4764293",
                       "animationMask": {
                         "position": false,
@@ -306,21 +306,21 @@
                       "tags": [],
                       "transform": {
                         "rx": 0,
-                        "ry": 0,
+                        "ry": -0,
                         "rz": 0,
                         "sx": 1,
                         "sy": 1,
                         "sz": 1,
-                        "x": 0,
-                        "y": 0,
-                        "z": 0
+                        "x": 0.3556011915206909,
+                        "y": 0.3593604564666748,
+                        "z": -3.724218231582199E-7
                       },
                       "width": 0.3260355293750763,
                       "children": [
                         {
                           "modelName": "mesh",
                           "name": "hat_compass",
-                          "identifier": "mesh1017-4060e927-027f-4f77-b336-468de4764293",
+                          "identifier": "mesh2792-4060e927-027f-4f77-b336-468de4764293",
                           "sourceIdentifier": "mesh:445-4060e927-027f-4f77-b336-468de4764293",
                           "animationMask": {
                             "position": false,
@@ -340,27 +340,27 @@
                           "renderPass": "main_scene",
                           "tags": [],
                           "transform": {
-                            "rx": -0.040827538818120956,
-                            "ry": -0.0006047487840987742,
-                            "rz": 0.01660734973847866,
-                            "sx": 100,
-                            "sy": 99.9999771118164,
-                            "sz": 99.9999771118164,
-                            "x": 0.021123861894011497,
-                            "y": 0.13246344029903412,
-                            "z": -0.15625454485416412
+                            "rx": -0.13249137997627258,
+                            "ry": -0.1888664811849594,
+                            "rz": 0.1669965237379074,
+                            "sx": 99.99999237060547,
+                            "sy": 99.9999008178711,
+                            "sz": 99.99998474121094,
+                            "x": -1.0209426879882812,
+                            "y": -0.8819087147712708,
+                            "z": -1.0941929817199707
                           },
                           "useEmbeddedBlendshapes": false,
                           "children": [
                             {
                               "modelName": "surfaces",
-                              "identifier": "surfaces1020-4060e927-027f-4f77-b336-468de4764293",
+                              "identifier": "surfaces2795-4060e927-027f-4f77-b336-468de4764293",
                               "sourceIdentifier": "surfaces:447-4060e927-027f-4f77-b336-468de4764293",
                               "children": [
                                 {
                                   "modelName": "surface",
                                   "name": "surface0",
-                                  "identifier": "surface1023-4060e927-027f-4f77-b336-468de4764293",
+                                  "identifier": "surface2798-4060e927-027f-4f77-b336-468de4764293",
                                   "sourceIdentifier": "surface:452-4060e927-027f-4f77-b336-468de4764293",
                                   "isMaterialIdentifierEnabled": true,
                                   "materialIdentifier": "dependent_material_model:439-4060e927-027f-4f77-b336-468de4764293",
@@ -369,7 +369,7 @@
                                 {
                                   "modelName": "surface",
                                   "name": "surface1",
-                                  "identifier": "surface1026-4060e927-027f-4f77-b336-468de4764293",
+                                  "identifier": "surface2801-4060e927-027f-4f77-b336-468de4764293",
                                   "sourceIdentifier": "surface:455-4060e927-027f-4f77-b336-468de4764293",
                                   "isMaterialIdentifierEnabled": true,
                                   "materialIdentifier": "dependent_material_model:441-4060e927-027f-4f77-b336-468de4764293",
