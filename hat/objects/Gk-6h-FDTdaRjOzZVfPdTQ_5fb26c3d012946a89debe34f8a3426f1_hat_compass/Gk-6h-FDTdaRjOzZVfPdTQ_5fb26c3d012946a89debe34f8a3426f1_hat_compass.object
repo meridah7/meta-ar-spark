@@ -1,0 +1,90 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "Gk-6h-FDTdaRjOzZVfPdTQ_5fb26c3d012946a89debe34f8a3426f1_hat_compass",
+  "identifier": "master3_d_object_model:458-4060e927-027f-4f77-b336-468de4764293",
+  "sourceIdentifier": "asset_collection_model:462-4060e927-027f-4f77-b336-468de4764293",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 0.3562588691711426,
+  "globalScaleFactor": 1,
+  "height": 0.16340303421020508,
+  "hidden": false,
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": 0,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 0.3260355293750763,
+  "children": [
+    {
+      "modelName": "mesh",
+      "name": "hat_compass",
+      "identifier": "mesh:445-4060e927-027f-4f77-b336-468de4764293",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "nodeName": "hat_compass",
+      "numberOfFaces": 4975,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:449-4060e927-027f-4f77-b336-468de4764293",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "tags": [],
+      "transform": {
+        "rx": 2.8421708795129297E-16,
+        "ry": -0,
+        "rz": 0,
+        "sx": 100,
+        "sy": 100,
+        "sz": 100,
+        "x": 0.0031825900077819824,
+        "y": -0.013178307563066483,
+        "z": -0.024590186774730682
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:447-4060e927-027f-4f77-b336-468de4764293",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:452-4060e927-027f-4f77-b336-468de4764293",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:439-4060e927-027f-4f77-b336-468de4764293",
+              "surfaceGroupIdentifier": "453-4060e927-027f-4f77-b336-468de4764293"
+            },
+            {
+              "modelName": "surface",
+              "name": "surface1",
+              "identifier": "surface:455-4060e927-027f-4f77-b336-468de4764293",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:441-4060e927-027f-4f77-b336-468de4764293",
+              "surfaceGroupIdentifier": "456-4060e927-027f-4f77-b336-468de4764293"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
