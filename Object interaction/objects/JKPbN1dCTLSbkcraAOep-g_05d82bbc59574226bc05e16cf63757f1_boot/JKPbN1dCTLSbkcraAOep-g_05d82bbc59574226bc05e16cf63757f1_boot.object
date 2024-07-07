@@ -1,0 +1,84 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "JKPbN1dCTLSbkcraAOep-g_05d82bbc59574226bc05e16cf63757f1_boot",
+  "identifier": "master3_d_object_model:632311-a8e10f83-530e-4a89-afcd-151a48e3ae0c",
+  "sourceIdentifier": "asset_collection_model:632315-a8e10f83-530e-4a89-afcd-151a48e3ae0c",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 0.027552835643291473,
+  "globalScaleFactor": 1,
+  "height": 0.021356170997023582,
+  "hidden": false,
+  "layerIdentifier": "layer0",
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": 0,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 0.01287726778537035,
+  "children": [
+    {
+      "modelName": "mesh",
+      "name": "boot",
+      "identifier": "mesh:632301-a8e10f83-530e-4a89-afcd-151a48e3ae0c",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "layerIdentifier": "layer0",
+      "nodeName": "boot",
+      "numberOfFaces": 824,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:632305-a8e10f83-530e-4a89-afcd-151a48e3ae0c",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "tags": [],
+      "transform": {
+        "rx": -1.5707963705062866,
+        "ry": -0.9599313139915466,
+        "rz": 6.242637340392321E-8,
+        "sx": 2.5400002002716064,
+        "sy": 2.5400002002716064,
+        "sz": 2.5399999618530273,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:632303-a8e10f83-530e-4a89-afcd-151a48e3ae0c",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:632308-a8e10f83-530e-4a89-afcd-151a48e3ae0c",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:632295-a8e10f83-530e-4a89-afcd-151a48e3ae0c",
+              "surfaceGroupIdentifier": "632309-a8e10f83-530e-4a89-afcd-151a48e3ae0c"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

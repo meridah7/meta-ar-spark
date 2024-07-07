@@ -1,0 +1,84 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "PJmTOooeQuGgjuhvN5syZg_f794627e072443078156a0eb9b7226f1_tire",
+  "identifier": "master3_d_object_model:631739-a8e10f83-530e-4a89-afcd-151a48e3ae0c",
+  "sourceIdentifier": "asset_collection_model:631743-a8e10f83-530e-4a89-afcd-151a48e3ae0c",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 0.029774192720651627,
+  "globalScaleFactor": 1,
+  "height": 0.007969003170728683,
+  "hidden": false,
+  "layerIdentifier": "layer0",
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": 0,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 0.029774200171232224,
+  "children": [
+    {
+      "modelName": "mesh",
+      "name": "tire",
+      "identifier": "mesh:631729-a8e10f83-530e-4a89-afcd-151a48e3ae0c",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "layerIdentifier": "layer0",
+      "nodeName": "tire",
+      "numberOfFaces": 512,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:631733-a8e10f83-530e-4a89-afcd-151a48e3ae0c",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "tags": [],
+      "transform": {
+        "rx": -1.5707963705062866,
+        "ry": 0,
+        "rz": 0,
+        "sx": 2.5399999618530273,
+        "sy": 2.5399999618530273,
+        "sz": 2.5399999618530273,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:631731-a8e10f83-530e-4a89-afcd-151a48e3ae0c",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:631736-a8e10f83-530e-4a89-afcd-151a48e3ae0c",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:631723-a8e10f83-530e-4a89-afcd-151a48e3ae0c",
+              "surfaceGroupIdentifier": "631737-a8e10f83-530e-4a89-afcd-151a48e3ae0c"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

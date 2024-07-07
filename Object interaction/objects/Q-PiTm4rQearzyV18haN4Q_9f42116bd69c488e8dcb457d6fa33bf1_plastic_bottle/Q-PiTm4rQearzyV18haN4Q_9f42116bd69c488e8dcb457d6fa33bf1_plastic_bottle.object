@@ -1,0 +1,84 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "Q-PiTm4rQearzyV18haN4Q_9f42116bd69c488e8dcb457d6fa33bf1_plastic_bottle",
+  "identifier": "master3_d_object_model:632005-a8e10f83-530e-4a89-afcd-151a48e3ae0c",
+  "sourceIdentifier": "asset_collection_model:632009-a8e10f83-530e-4a89-afcd-151a48e3ae0c",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 0.010626349598169327,
+  "globalScaleFactor": 1,
+  "height": 0.02757927030324936,
+  "hidden": false,
+  "layerIdentifier": "layer0",
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": 0,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 0.010626349598169327,
+  "children": [
+    {
+      "modelName": "mesh",
+      "name": "plastic_bottle",
+      "identifier": "mesh:631995-a8e10f83-530e-4a89-afcd-151a48e3ae0c",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "layerIdentifier": "layer0",
+      "nodeName": "plastic_bottle",
+      "numberOfFaces": 480,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:631999-a8e10f83-530e-4a89-afcd-151a48e3ae0c",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "tags": [],
+      "transform": {
+        "rx": 1.1920928955078125E-7,
+        "ry": -1.3027008857350924E-15,
+        "rz": -2.980232594040899E-8,
+        "sx": 10.972800254821777,
+        "sy": 10.972800254821777,
+        "sz": 10.972800254821777,
+        "x": -0.00401867413893342,
+        "y": 0.0021006709430366755,
+        "z": -9.182321569767282E-11
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:631997-a8e10f83-530e-4a89-afcd-151a48e3ae0c",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:632002-a8e10f83-530e-4a89-afcd-151a48e3ae0c",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:631989-a8e10f83-530e-4a89-afcd-151a48e3ae0c",
+              "surfaceGroupIdentifier": "632003-a8e10f83-530e-4a89-afcd-151a48e3ae0c"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
