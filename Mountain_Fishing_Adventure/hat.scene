@@ -306,7 +306,7 @@
                       "tags": [],
                       "transform": {
                         "rx": 0,
-                        "ry": -0,
+                        "ry": 0,
                         "rz": 0,
                         "sx": 1,
                         "sy": 1,
@@ -363,7 +363,7 @@
                                   "identifier": "surface2798-4060e927-027f-4f77-b336-468de4764293",
                                   "sourceIdentifier": "surface:452-4060e927-027f-4f77-b336-468de4764293",
                                   "isMaterialIdentifierEnabled": true,
-                                  "materialIdentifier": "dependent_material_model:439-4060e927-027f-4f77-b336-468de4764293",
+                                  "materialIdentifier": "metallicRoughnessPbrMaterial:3606-3997a65c-b60e-470f-880c-fdb8e05b6ebe",
                                   "surfaceGroupIdentifier": "453-4060e927-027f-4f77-b336-468de4764293"
                                 },
                                 {

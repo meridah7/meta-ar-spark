@@ -3,7 +3,7 @@
   "name": "Effect",
   "identifier": "document:4-4060e927-027f-4f77-b336-468de4764293",
   "id": "24060e927027f4f77b336468de4764293",
-  "revision": "34060e927027f4f77b336468de4764293",
+  "revision": "22003997a65cb60e470f880cfdb8e05b6ebe",
   "version": {
     "dev": 0,
     "patch": 0,
@@ -22,7 +22,12 @@
   "objects": [
     {
       "modelName": "assets_config_model",
-      "identifier": "assets_config_model:195-4060e927-027f-4f77-b336-468de4764293"
+      "identifier": "assets_config_model:195-4060e927-027f-4f77-b336-468de4764293",
+      "categoriesOrder": [
+        "materials",
+        "animation_sequences",
+        "textures"
+      ]
     }
   ],
   "projectFormatType": "separated_files",
@@ -33,7 +38,26 @@
   "children": [
     {
       "modelName": "textures",
-      "identifier": "textures:10-4060e927-027f-4f77-b336-468de4764293"
+      "identifier": "textures:10-4060e927-027f-4f77-b336-468de4764293",
+      "children": [
+        {
+          "modelName": "sequenceTexture",
+          "name": "animationSequence0",
+          "identifier": "sequenceTexture:3808-3997a65c-b60e-470f-880c-fdb8e05b6ebe"
+        },
+        {
+          "sectionFileLocation": "textures/hat_normal.texture"
+        },
+        {
+          "sectionFileLocation": "textures/hat_ORM.texture"
+        },
+        {
+          "sectionFileLocation": "textures/compass_normal.texture"
+        },
+        {
+          "sectionFileLocation": "textures/compass_ORM.texture"
+        }
+      ]
     },
     {
       "modelName": "materials",
@@ -43,7 +67,7 @@
           "sectionFileLocation": "objects/headOccluder/headOccluder_mat.material"
         },
         {
-          "sectionFileLocation": "objects/Gk-6h-FDTdaRjOzZVfPdTQ_5fb26c3d012946a89debe34f8a3426f1_hat_compass/hat_material.material"
+          "sectionFileLocation": "materials/hat_material.material"
         },
         {
           "sectionFileLocation": "objects/Gk-6h-FDTdaRjOzZVfPdTQ_5fb26c3d012946a89debe34f8a3426f1_hat_compass/compass_material.material"
@@ -359,7 +383,7 @@
       "effectUsesOpticalFlow": false,
       "effectUsesOpusCodec": false,
       "effectUsesOverlayOutput": false,
-      "effectUsesPBRMaterial": false,
+      "effectUsesPBRMaterial": true,
       "effectUsesParticipant": false,
       "effectUsesParticleSystem": false,
       "effectUsesPeerOutput": false,

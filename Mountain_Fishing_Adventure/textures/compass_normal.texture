@@ -1,1 +1,36 @@
-{ "dataModelPlaceholderFile": true }
+{
+  "modelName": "texture",
+  "name": "compass_normal",
+  "identifier": "texture:4438-3997a65c-b60e-470f-880c-fdb8e05b6ebe",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "3c423213dfcce3aef3f3280881e17e61",
+  "assetLocator": "textures/compass_normal.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "3c423213dfcce3aef3f3280881e17e61",
+      "colorCount": 56743,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 9.038214061494404,
+      "pixelsHigh": 1024,
+      "pixelsWide": 1024
+    }
+  ]
+}
